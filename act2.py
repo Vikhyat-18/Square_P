@@ -12,6 +12,6 @@ for i in range(1,n+1):
     pen.right(90)
     pen.forward(i+1)
     pen.right(90)
-    pen.forward(i+4)
+    pen.forward(i+2)
     pen.right(90)
 
